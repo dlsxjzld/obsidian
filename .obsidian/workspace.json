@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "f6652700180f23ba",
+            "id": "a64f2ccc13d5f59f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/1장.md",
+                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식_TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a64f2ccc13d5f59f",
+            "id": "785af15a4996715b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +56,7 @@
             }
           },
           {
-            "id": "6a268198efdadbda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/5장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc6c49853be981e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/1장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a1505205078e0eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "365f5a653176336a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+                "file": "Resource/자바스크립트/값, 식, 문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+                "file": "Resource/자바스크립트/값, 식, 문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md"
+                "file": "Resource/자바스크립트/값, 식, 문.md"
               }
             }
           }
@@ -206,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,18 +202,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1a1505205078e0eb",
+  "active": "785af15a4996715b",
   "lastOpenFiles": [
-    "Resource/자바스크립트/자바스크립트 런타임.md",
+    "Resource/자바스크립트/이벤트 루프_TODO.md",
+    "Resource/자바스크립트/일급 객체_TODO.md",
     "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+    "Resource/자바스크립트/함수 선언문과 함수 표현식_TODO.md",
+    "Resource/자바스크립트/호이스팅_TODO.md",
+    "Resource/자바스크립트/값, 식, 문.md",
     "PARA.md",
+    "Resource/타입스크립트 교과서 스터디/1장.md",
+    "Resource/타입스크립트 교과서 스터디/2장.md",
     "README.md",
+    "Resource/자바스크립트/이벤트 루프 1.md",
+    "Resource/자바스크립트/자바스크립트 런타임.md",
     "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
     "test.md",
-    "Resource/자바스크립트/값, 식, 문.md",
-    "Resource/타입스크립트 교과서 스터디/2장.md",
     "Resource/자바스크립트",
-    "Resource/타입스크립트 교과서 스터디/1장.md",
     "Resource/타입스크립트 교과서 스터디/5장.md",
     "AttachedFiles",
     "Resource/타입스크립트 교과서 스터디",
