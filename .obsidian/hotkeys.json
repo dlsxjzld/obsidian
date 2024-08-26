@@ -2,7 +2,7 @@
   "automatic-table-of-contents:insert-automatic-table-of-contents-docs": [
     {
       "modifiers": [
-        "Shift"
+        "Ctrl"
       ],
       "key": "1"
     }
