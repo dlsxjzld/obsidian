@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "560b6f6f5c3689c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd202dae2befd149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5b3268ac778f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6652700180f23ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/타입스크립트 교과서 스터디/1장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a64f2ccc13d5f59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/자바스크립트/값, 식, 문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1d51fcee6e69db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a268198efdadbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/타입스크립트 교과서 스터디/5장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6c49853be981e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/타입스크립트 교과서 스터디/1장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a1505205078e0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc28cd1a9dc144b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "72bfabee3e74fbf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3983f861e757756",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffc29b759e7d01be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4666f6d76dedbfb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d00742c35b1fdf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a54758a22b006a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc23e5d9a218151",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16285227ccf785b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13e5ad11abbc42c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b26afb1785be2ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f3983f861e757756",
+  "lastOpenFiles": [
+    "README.md",
+    "test.md",
+    "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+    "Resource/자바스크립트/자바스크립트 엔진.md",
+    "Resource/자바스크립트/값, 식, 문.md",
+    "Resource/타입스크립트 교과서 스터디/2장.md",
+    "PARA.md",
+    "Resource/자바스크립트",
+    "Resource/타입스크립트 교과서 스터디/1장.md",
+    "Resource/타입스크립트 교과서 스터디/5장.md",
+    "AttachedFiles",
+    "Resource/타입스크립트 교과서 스터디",
+    "Archive",
+    "Resource",
+    "Area",
+    "Project"
+  ]
+}
