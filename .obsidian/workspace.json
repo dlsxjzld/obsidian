@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA.md",
+                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA.md",
+                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA.md",
+                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA.md"
+                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md"
               }
             }
           }
@@ -221,11 +221,12 @@
   },
   "active": "1a1505205078e0eb",
   "lastOpenFiles": [
-    "README.md",
+    "Resource/자바스크립트/자바스크립트 런타임.md",
+    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "PARA.md",
+    "README.md",
     "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
     "test.md",
-    "Resource/자바스크립트/자바스크립트 엔진.md",
     "Resource/자바스크립트/값, 식, 문.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
     "Resource/자바스크립트",
