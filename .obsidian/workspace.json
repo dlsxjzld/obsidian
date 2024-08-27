@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b7961ed189da58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"인덱스 시그니처\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d00742c35b1fdf2",
@@ -166,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,15 +195,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md"
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +217,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "61b7961ed189da58",
+  "active": "a353b761b6bcd221",
   "lastOpenFiles": [
-    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Resource/자바스크립트/값, 식, 문.md",
+    "인덱스 시그니처.md",
+    "Resource/타입스크립트 교과서 스터디/2장.md",
+    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Resource/자바스크립트/일급 객체_TODO.md",
     "Resource/자바스크립트/이벤트 루프_TODO.md",
     "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
@@ -238,7 +231,6 @@
     "PARA.md",
     "Resource/자바스크립트/호이스팅_TODO.md",
     "Resource/타입스크립트 교과서 스터디/1장.md",
-    "Resource/타입스크립트 교과서 스터디/2장.md",
     "README.md",
     "Resource/자바스크립트/이벤트 루프 1.md",
     "Resource/자바스크립트/자바스크립트 런타임.md",
