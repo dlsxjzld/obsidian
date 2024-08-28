@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+                "file": "PARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+                "file": "PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+                "file": "PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md"
+                "file": "PARA.md"
               }
             }
           }
@@ -219,22 +218,37 @@
   },
   "active": "a64f2ccc13d5f59f",
   "lastOpenFiles": [
-    "Resource/자바스크립트/값, 식, 문.md",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.49.21.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.48.01.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 7.11.18.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 7.14.00.png",
+    "Area/개발자 컨퍼런스/우아한 테크 세미나 (2024년 8월 28일).md",
+    "AttachedFiles/스크린샷 2024-08-28 오후 7.10.30.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.58.02.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.57.44.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.57.31.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.57.17.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.56.20.png",
+    "AttachedFiles/스크린샷 2024-08-28 오후 6.56.07.png",
+    "PARA.md",
+    "무제 폴더",
+    "개발자 컨퍼런스.md",
+    "Area/개발자 컨퍼런스",
+    "인덱스 시그니처.md",
+    "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+    "Area/프론트엔드 면접 준비.md",
     "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+    "Resource/자바스크립트/값, 식, 문.md",
     "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
-    "인덱스 시그니처.md",
     "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Resource/자바스크립트/일급 객체_TODO.md",
     "Resource/자바스크립트/이벤트 루프_TODO.md",
-    "Area/프론트엔드 면접 준비.md",
-    "PARA.md",
     "Resource/자바스크립트/호이스팅_TODO.md",
     "Resource/타입스크립트 교과서 스터디/1장.md",
     "README.md",
     "Resource/자바스크립트/이벤트 루프 1.md",
     "Resource/자바스크립트/자바스크립트 런타임.md",
-    "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
     "test.md",
     "Resource/자바스크립트",
     "Resource/타입스크립트 교과서 스터디/5장.md",
