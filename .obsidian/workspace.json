@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식_TODO.md",
+                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
+                "file": "Resource/자바스크립트/값, 식, 문.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"인덱스 시그니처\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,12 +134,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d00742c35b1fdf2",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
+                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
+                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/2장.md"
+                "file": "Resource/자바스크립트/함수 선언문과 함수 표현식.md"
               }
             }
           }
@@ -217,16 +217,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a353b761b6bcd221",
+  "active": "a64f2ccc13d5f59f",
   "lastOpenFiles": [
     "Resource/자바스크립트/값, 식, 문.md",
-    "인덱스 시그니처.md",
+    "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+    "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
+    "인덱스 시그니처.md",
     "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Resource/자바스크립트/일급 객체_TODO.md",
     "Resource/자바스크립트/이벤트 루프_TODO.md",
-    "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
-    "Resource/자바스크립트/함수 선언문과 함수 표현식_TODO.md",
     "Area/프론트엔드 면접 준비.md",
     "PARA.md",
     "Resource/자바스크립트/호이스팅_TODO.md",
