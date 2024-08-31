@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/자바스크립트/일급 객체.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/자바스크립트/일급 객체.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/자바스크립트/일급 객체.md",
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/자바스크립트/일급 객체.md"
+                "file": "Resource/타입스크립트 교과서 스터디/2장.md"
               }
             }
           }
@@ -218,9 +218,9 @@
   },
   "active": "a64f2ccc13d5f59f",
   "lastOpenFiles": [
+    "Resource/자바스크립트/일급 객체.md",
     "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "Resource/자바스크립트/값, 식, 문.md",
-    "Resource/자바스크립트/일급 객체.md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
     "Resource/자바스크립트/호이스팅.md",
     "README.md",
