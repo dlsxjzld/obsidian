@@ -47,9 +47,11 @@
             "id": "4f321f81f8494160",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png"
+                "file": "Area/코테/다시풀기.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -139,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "자바스크립트 엔진",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
+                "file": "Area/코테/다시풀기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
+                "file": "Area/코테/다시풀기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png"
+                "file": "Area/코테/다시풀기.md"
               }
             }
           }
@@ -238,12 +240,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f3983f861e757756",
+  "active": "4f321f81f8494160",
   "lastOpenFiles": [
-    "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
-    "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
-    "Project/오픽.md",
+    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+    "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "Area/코테/다시풀기.md",
+    "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
+    "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
+    "Project/오픽.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
     "Area/코테/순열과 조합.md",
     "코테.md",
@@ -251,7 +255,6 @@
     "PARA.md",
     "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
     "Resource/자바스크립트/일급 객체.md",
-    "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "Resource/자바스크립트/값, 식, 문.md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
     "Resource/자바스크립트/호이스팅.md",
@@ -275,7 +278,6 @@
     "인덱스 시그니처.md",
     "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
     "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
-    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Resource/자바스크립트/이벤트 루프_TODO.md",
     "Resource/타입스크립트 교과서 스터디/1장.md",
     "Resource/자바스크립트/이벤트 루프 1.md",
