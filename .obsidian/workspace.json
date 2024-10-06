@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "01536a3ec1628a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/코테/다시풀기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "785af15a4996715b",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,16 +252,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f321f81f8494160",
+  "active": "01536a3ec1628a40",
   "lastOpenFiles": [
+    "Area/코테/순열과 조합.md",
+    "Area/코테/다시풀기.md",
+    "Area/코테/코테 유형.md",
     "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
-    "Area/코테/다시풀기.md",
     "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
     "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
     "Project/오픽.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
-    "Area/코테/순열과 조합.md",
     "코테.md",
     "Area/코테",
     "PARA.md",
