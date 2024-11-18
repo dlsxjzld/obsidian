@@ -4,127 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dd202dae2befd149",
+        "id": "2820436448b1e59d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5b3268ac778f23",
+            "id": "7c580f7b5375fbdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
+                "file": "Project/Javascript 완벽 가이드.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a64f2ccc13d5f59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/타입스크립트 교과서 스터디/2장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2e19f3a2fdd4c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f321f81f8494160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/코테/다시풀기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01536a3ec1628a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/코테/다시풀기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785af15a4996715b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a353b761b6bcd221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/자바스크립트/값, 식, 문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d51fcee6e69db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6c49853be981e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "365f5a653176336a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Javascript 완벽 가이드"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -159,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -167,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d00742c35b1fdf2",
@@ -190,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/코테/다시풀기.md",
+                "file": "Area/코테/코테 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "코테 유형의 백링크"
             }
           },
           {
@@ -207,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/코테/다시풀기.md",
+                "file": "Area/코테/코테 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "코테 유형의 나가는 링크"
             }
           },
           {
@@ -221,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -230,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/코테/다시풀기.md"
-              }
+                "file": "Area/코테/코테 유형.md"
+              },
+              "icon": "lucide-list",
+              "title": "코테 유형 개요"
             }
           }
         ],
@@ -252,25 +164,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01536a3ec1628a40",
+  "active": "7c580f7b5375fbdd",
   "lastOpenFiles": [
+    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+    "PARA.md",
+    "Resource/자바스크립트/값, 식, 문.md",
+    "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
+    "무제 폴더",
+    "Project/Javascript 완벽 가이드",
+    "Project/Javascript 완벽 가이드.md",
+    "Resource/자바스크립트/호이스팅.md",
+    "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
+    "Area/코테/코테 유형.md",
     "Area/코테/순열과 조합.md",
     "Area/코테/다시풀기.md",
-    "Area/코테/코테 유형.md",
-    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
     "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
-    "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
     "Project/오픽.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
     "코테.md",
     "Area/코테",
-    "PARA.md",
     "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
     "Resource/자바스크립트/일급 객체.md",
-    "Resource/자바스크립트/값, 식, 문.md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
-    "Resource/자바스크립트/호이스팅.md",
     "README.md",
     "Resource/프론트엔드 개발 환경 (모듈 번들러 등).md",
     "Area/독서/함께 자라기.md",
@@ -289,16 +205,11 @@
     "개발자 컨퍼런스.md",
     "Area/개발자 컨퍼런스",
     "인덱스 시그니처.md",
-    "Resource/자바스크립트/함수 선언문과 함수 표현식.md",
     "Resource/자바스크립트/함수 레벨 스코프와 블록 레벨 스코프_TODO.md",
     "Resource/자바스크립트/이벤트 루프_TODO.md",
-    "Resource/타입스크립트 교과서 스터디/1장.md",
-    "Resource/자바스크립트/이벤트 루프 1.md",
     "Resource/자바스크립트",
     "AttachedFiles",
     "Resource/타입스크립트 교과서 스터디",
-    "Archive",
-    "Resource",
-    "Area"
+    "Archive"
   ]
 }
