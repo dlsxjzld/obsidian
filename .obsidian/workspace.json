@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드 면접 준비/클로저란?.md",
+                "file": "Resource/자바스크립트/가비지컬렉터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클로저란?"
+              "title": "가비지컬렉터"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "스코프 체인_TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/독서/자기관리론.md",
+                "file": "Resource/자바스크립트/가비지컬렉터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "자기관리론의 백링크"
+              "title": "가비지컬렉터의 백링크"
             }
           },
           {
@@ -168,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/독서/자기관리론.md"
+                "file": "Resource/자바스크립트/가비지컬렉터.md"
               },
               "icon": "lucide-list",
-              "title": "자기관리론 개요"
+              "title": "가비지컬렉터 개요"
             }
           }
         ],
@@ -192,19 +191,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "86072c70d993bbba",
+  "active": "7c580f7b5375fbdd",
   "lastOpenFiles": [
-    "Area/독서/함께 자라기.md",
-    "Area/독서/자기관리론.md",
-    "Resource/자바스크립트/가비지콜렉터_TODO.md",
+    "Resource/자바스크립트/실행 컨텍스트_TODO.md",
     "Area/프론트엔드 면접 준비/클로저란?.md",
+    "Area/독서/자기관리론.md",
+    "Area/독서/함께 자라기.md",
+    "Resource/자바스크립트/가비지컬렉터.md",
     "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
     "Resource/자바스크립트/렉시컬 스코프.md",
     "Project/Javascript 완벽 가이드.md",
     "Resource/자바스크립트/스코프 체인_TODO.md",
     "Resource/자바스크립트/호이스팅.md",
     "Resource/자바스크립트/값, 식, 문.md",
-    "Resource/자바스크립트/실행 컨텍스트_TODO.md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
     "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
