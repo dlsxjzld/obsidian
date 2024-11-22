@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
+                "file": "Project/프론트엔드 면접질문 중요도별 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend-Interview-README"
+              "title": "프론트엔드 면접질문 중요도별 정리"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
+                "file": "Project/프론트엔드 면접질문 중요도별 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Frontend-Interview-README의 백링크"
+              "title": "프론트엔드 면접질문 중요도별 정리의 백링크"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드 면접 준비/Frontend-Interview-README.md"
+                "file": "Project/프론트엔드 면접질문 중요도별 정리.md"
               },
               "icon": "lucide-list",
-              "title": "Frontend-Interview-README 개요"
+              "title": "프론트엔드 면접질문 중요도별 정리 개요"
             }
           }
         ],
@@ -177,15 +177,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f3983f861e757756",
+  "active": "86072c70d993bbba",
   "lastOpenFiles": [
+    "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
+    "Area/프론트엔드 면접 준비/주소창에 google.com을 입력하면 생기는 일.md",
     "Resource/자바스크립트/렉시컬 스코프.md",
     "README.md",
-    "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
     "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
     "Area/프론트엔드 면접 준비/클로저란?.md",
-    "Area/프론트엔드 면접 준비/주소창에 google.com을 입력하면 생기는 일.md",
     "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
     "Area/독서/자기관리론.md",
     "DNS.md",
