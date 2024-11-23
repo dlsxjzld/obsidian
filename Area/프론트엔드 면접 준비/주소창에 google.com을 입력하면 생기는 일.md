@@ -31,4 +31,4 @@
 
 # 참고자료
 ---
-[DNS란? 도메인과 URL의 차이, URL의 구조, 도메인의 계층 관계, DNS 동작 방식](https://blog.naver.com/ghdalswl77/222331240558)
+[원본 자료](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-%EB%A0%8C%EB%8D%94%EB%A7%81)
