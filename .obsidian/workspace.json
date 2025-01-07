@@ -8,49 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "751558397c6321af",
+            "id": "fcca39d23b5c5ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드 면접 준비/호이스팅이란?.md",
+                "file": "Area/매일메일/CSS Flexbox와 Grid의 차이점에 대해서 설명해주세요..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "호이스팅이란?"
+              "title": "CSS Flexbox와 Grid의 차이점에 대해서 설명해주세요."
             }
           },
           {
-            "id": "3d9108461783820c",
+            "id": "a1db9f0c49bddc20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/코테/다시풀기.md",
+                "file": "Resource/공부하며 새로 배운 내용 ✍️.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다시풀기"
+              "title": "공부하며 새로 배운 내용 ✍️"
             }
           },
           {
-            "id": "9f65766e579cc724",
+            "id": "6043856104aee9e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/자바스크립트/스코프 체인_TODO.md",
+                "file": "Resource/10분 테코톡/린 스타트업.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스코프 체인_TODO"
+              "title": "린 스타트업"
+            }
+          },
+          {
+            "id": "d3b3f21123382fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/10분 테코톡/린 스타트업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "린 스타트업"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 325.5
   },
   "right": {
     "id": "1d00742c35b1fdf2",
@@ -192,38 +206,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3d9108461783820c",
+  "active": "f3983f861e757756",
   "lastOpenFiles": [
-    "Resource/프론트엔드/MVC 패턴.md",
-    "Area/매일메일/리액트의 props와 state.md",
-    "Resource/타입스크립트 교과서 스터디/2장.md",
-    "Area/매일메일/클로저에 대해서 설명해주세요.md",
-    "Area/매일메일/이벤트 루프.md",
-    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+    "Area/독서/자기관리론.md",
+    "Resource/10분 테코톡",
+    "Area/독서/함께 자라기.md",
+    "Resource/10분 테코톡/린 스타트업.md",
+    "Resource/공부하며 새로 배운 내용 ✍️.md",
+    "AttachedFiles/스크린샷 2025-01-06 오후 3.15.46.png",
+    "AttachedFiles/스크린샷 2025-01-06 오후 3.13.58.png",
+    "Area/매일메일/프론트엔드 E2E 테스트에 대해서 설명해주세요..md",
+    "Area/매일메일/CSS Flexbox와 Grid의 차이점에 대해서 설명해주세요..md",
     "Area/코테/다시풀기.md",
-    "Area/매일메일/실행 컨텍스트.md",
+    "Resource/프론트엔드/kotest가 있다면 TDD 묻고 BDD로 가!.md",
+    "Area/매일메일/인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요..md",
+    "Area/매일메일/리액트의 render phase와 commit phase에 대해서 설명해주세요..md",
+    "Area/매일메일/브라우저 렌더링 파이프라인에 대해서 설명해주세요..md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
-    "Project/프론트엔드 면접질문 중요도별 정리.md",
-    "Resource/자바스크립트/호이스팅.md",
+    "Resource/타입스크립트 교과서 스터디/2장.md",
+    "Area/매일메일/웹 접근성의 개념과 개선 방법에 대해 설명해주세요..md",
+    "Area/매일메일/SSR(Server Side Rendering)에 대해 설명해주세요..md",
+    "Area/매일메일/useEffect와 useLayoutEffect의 차이점에 대해서 설명해주세요..md",
+    "Area/매일메일/tanstack-query에서 stale time과 gc time의 차이점에 대해서 설명해주세요.md",
+    "Area/매일메일/인터프리터 언어인 자바스크립트에서 호이스팅이 가능한 이유.md",
+    "Area/매일메일/리액트에서 index를 key값으로 사용하면 안되는 이유에 대해서 설명해주세요..md",
+    "Area/매일메일/인터프리터 언어인 자바스크립트에서 어떻게 호이스팅이 가능한지에 대해서 설명해주세요..md",
+    "Area/매일메일/웹 애플리케이션의 성능을 최적화할 수 있는 방법들.md",
+    "Area/매일메일/디바운스와 쓰로틀에 대해서 각각 설명해주세요..md",
+    "Area/매일메일/웹 애플리케이션의 성능을 최적화할 수 있는 방법들에 대해서 아는대로 설명해주세요..md",
+    "Area/코테/순열과 조합.md",
+    "Area/매일메일/리액트의 Strict Mode에 대해서 설명해주세요..md",
+    "Area/매일메일/이벤트 전파(event propagation)에 대해서 설명해주세요..md",
     "AttachedFiles/mvc.png",
     "Resource/프론트엔드",
-    "Area/매일메일/reflow와 repaint의 차이점에 대해서 설명해주세요..md",
     "Area/매일메일",
-    "Area/프론트엔드 면접 준비/CSS에서 position이란?.md",
-    "Area/프론트엔드 면접 준비/Frontend-Interview-README.md",
-    "Area/프론트엔드 면접 준비/Reflow와 Repaint.md",
-    "Area/프론트엔드 면접 준비/브라우저의 렌더링 과정.md",
-    "Area/독서/자기관리론.md",
-    "Area/독서/함께 자라기.md",
-    "Area/프론트엔드 면접 준비/CSS에서 margin과 padding이란?.md",
-    "Area/프론트엔드 면접 준비/클로저란?.md",
-    "Resource/자바스크립트/렉시컬 스코프.md",
-    "Resource/네트워크/www.naver.com 을 주소창에 치면 무슨 일이 일어날까요?.md",
-    "Area/프론트엔드 면접 준비/주소창에 google.com을 입력하면 생기는 일.md",
-    "Resource/네트워크/URL을 입력하고 벌어지는 일.md",
     "Resource/네트워크",
-    "README.md",
-    "DNS.md",
     "AttachedFiles/스크린샷 2024-09-05 오후 3.46.45.png",
     "Project/Javascript 완벽 가이드",
     "AttachedFiles/스크린샷 2024-09-05 오후 2.57.37.png",
@@ -235,10 +252,7 @@
     "AttachedFiles/스크린샷 2024-08-28 오후 7.11.18.png",
     "AttachedFiles/스크린샷 2024-08-28 오후 7.14.00.png",
     "AttachedFiles/스크린샷 2024-08-28 오후 7.10.30.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 6.58.02.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 6.57.44.png",
     "Area/개발자 컨퍼런스",
-    "Resource/자바스크립트",
-    "AttachedFiles"
+    "Resource/자바스크립트"
   ]
 }
