@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "8f6a461f2c8a0094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/공부하며 새로 배운 내용 ✍️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "공부하며 새로 배운 내용 ✍️"
+            }
+          },
+          {
             "id": "a1db9f0c49bddc20",
             "type": "leaf",
             "state": {
@@ -41,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/10분 테코톡/린 스타트업.md",
+                "file": "Resource/10분 테코톡/검색 엔진 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "린 스타트업"
+              "title": "검색 엔진 최적화"
             }
           },
           {
@@ -55,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/10분 테코톡/린 스타트업.md",
+                "file": "Resource/아티클/자바스크립트는 왜 프로토타입을 선택했을까.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "린 스타트업"
+              "title": "자바스크립트는 왜 프로토타입을 선택했을까"
+            }
+          },
+          {
+            "id": "284b2f4d24fce3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/매일메일/타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요."
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +234,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f3983f861e757756",
+  "active": "8f6a461f2c8a0094",
   "lastOpenFiles": [
+    "Area/매일메일/웹 접근성의 개념과 개선 방법에 대해 설명해주세요..md",
+    "Resource/공부하며 새로 배운 내용 ✍️.md",
+    "Resource/10분 테코톡/검색 엔진 최적화.md",
+    "Area/독서/오늘, 또 일을 미루고 말았다.md",
+    "Area/매일메일/시맨틱 마크업이란 무엇이며, 왜 중요한가요?.md",
+    "Area/독서/함께 자라기.md",
+    "Area/매일메일/타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요..md",
+    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
+    "Area/매일메일/자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?.md",
+    "무제 파일.md",
+    "Resource/아티클/자바스크립트는 왜 프로토타입을 선택했을까.md",
+    "AttachedFiles/스크린샷 2025-01-07 오후 5.10.03.png",
+    "AttachedFiles/스크린샷 2025-01-07 오후 5.08.56.png",
+    "AttachedFiles/스크린샷 2025-01-07 오후 5.05.41.png",
+    "AttachedFiles/스크린샷 2025-01-07 오후 5.04.16.png",
+    "AttachedFiles/스크린샷 2025-01-07 오후 5.00.14.png",
+    "Resource/10분 테코톡/린 스타트업.md",
+    "Area/매일메일/낙관적 업데이트에 관하여 설명해주세요..md",
+    "Resource/아티클",
+    "Area/매일메일/이미지 크기가 클 경우 렌더링 속도가 느려질 텐데, 이를 개선하기 위한 방법들.md",
+    "Area/매일메일/이미지 크기가 클 경우 렌더링 속도가 느려질 텐데, 이를 개선하기 위한 방법들을 설명해주세요..md",
     "Area/독서/자기관리론.md",
     "Resource/10분 테코톡",
-    "Area/독서/함께 자라기.md",
-    "Resource/10분 테코톡/린 스타트업.md",
-    "Resource/공부하며 새로 배운 내용 ✍️.md",
     "AttachedFiles/스크린샷 2025-01-06 오후 3.15.46.png",
     "AttachedFiles/스크린샷 2025-01-06 오후 3.13.58.png",
     "Area/매일메일/프론트엔드 E2E 테스트에 대해서 설명해주세요..md",
@@ -224,19 +270,7 @@
     "Area/매일메일/브라우저 렌더링 파이프라인에 대해서 설명해주세요..md",
     "Area/프론트엔드 면접 준비/호이스팅이란?.md",
     "Resource/타입스크립트 교과서 스터디/2장.md",
-    "Area/매일메일/웹 접근성의 개념과 개선 방법에 대해 설명해주세요..md",
     "Area/매일메일/SSR(Server Side Rendering)에 대해 설명해주세요..md",
-    "Area/매일메일/useEffect와 useLayoutEffect의 차이점에 대해서 설명해주세요..md",
-    "Area/매일메일/tanstack-query에서 stale time과 gc time의 차이점에 대해서 설명해주세요.md",
-    "Area/매일메일/인터프리터 언어인 자바스크립트에서 호이스팅이 가능한 이유.md",
-    "Area/매일메일/리액트에서 index를 key값으로 사용하면 안되는 이유에 대해서 설명해주세요..md",
-    "Area/매일메일/인터프리터 언어인 자바스크립트에서 어떻게 호이스팅이 가능한지에 대해서 설명해주세요..md",
-    "Area/매일메일/웹 애플리케이션의 성능을 최적화할 수 있는 방법들.md",
-    "Area/매일메일/디바운스와 쓰로틀에 대해서 각각 설명해주세요..md",
-    "Area/매일메일/웹 애플리케이션의 성능을 최적화할 수 있는 방법들에 대해서 아는대로 설명해주세요..md",
-    "Area/코테/순열과 조합.md",
-    "Area/매일메일/리액트의 Strict Mode에 대해서 설명해주세요..md",
-    "Area/매일메일/이벤트 전파(event propagation)에 대해서 설명해주세요..md",
     "AttachedFiles/mvc.png",
     "Resource/프론트엔드",
     "Area/매일메일",
@@ -247,12 +281,6 @@
     "Area/코테",
     "Area/독서",
     "Area/프론트엔드 면접 준비",
-    "AttachedFiles/스크린샷 2024-08-28 오후 6.49.21.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 6.48.01.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 7.11.18.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 7.14.00.png",
-    "AttachedFiles/스크린샷 2024-08-28 오후 7.10.30.png",
-    "Area/개발자 컨퍼런스",
-    "Resource/자바스크립트"
+    "Area/개발자 컨퍼런스"
   ]
 }
