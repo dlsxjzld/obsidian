@@ -66,3 +66,4 @@ debugInConsole: false # Print debug info in Obsidian console
 
 [완전히 정복하는 프로세스 vs 스레드 개념](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4)
 [크롬의 탭은 프로세스일까? 스레드일까?](https://puleugo.tistory.com/162)
+[Frontend에서 멀티 스레드를 쓸 수는 없을까?](https://medium.com/@sudosubin/frontend%EC%97%90%EC%84%9C-%EB%A9%80%ED%8B%B0-%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%93%B8-%EC%88%98%EB%8A%94-%EC%97%86%EC%9D%84%EA%B9%8C-d195c681dd77)
