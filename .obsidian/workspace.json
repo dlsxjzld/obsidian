@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/10분 테코톡/Process vs Thread.md",
+                "file": "Area/매일메일/ES6에 대해서 아는 대로 설명해 주세요..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process vs Thread"
+              "title": "ES6에 대해서 아는 대로 설명해 주세요."
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "1d00742c35b1fdf2",
@@ -208,44 +207,44 @@
   },
   "active": "a1db9f0c49bddc20",
   "lastOpenFiles": [
+    "Area/매일메일/useEffect와 useLayoutEffect의 차이점에 대해서 설명해 주세요..md",
+    "Area/매일메일/useEffect가 호출되는 시점에 대해 설명해 주세요..md",
+    "Area/매일메일/undefined와 null의 차이점에 대해서 설명해 주세요..md",
+    "Area/매일메일/CSS Flexbox와 Grid의 차이점에 대해서 설명해 주세요..md",
+    "Area/매일메일/CommonJS와 ES Module의 차이점에 대해서 설명해 주세요..md",
+    "Area/매일메일/함수 선언식과 함수 표현식의 차이점에 대해서 설명해 주세요..md",
+    "Area/매일메일/프론트엔드 E2E 테스트에 대해서 설명해 주세요..md",
+    "Area/매일메일/타입스크립트의 타입과 인터페이스의 차이점을 설명해 주세요..md",
+    "Area/매일메일/클로저에 대해서 설명해 주세요.md",
+    "Area/매일메일/자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?.md",
+    "Area/매일메일/자바스크립트 Promise에 대해서 아는 대로 설명해 주세요..md",
+    "Area/매일메일/자바스크립트 호이스팅에 대해서 설명해 주세요..md",
+    "Area/매일메일/자바스크립트 함수에 대해서 아는대로 설명해 주세요..md",
+    "Area/매일메일/자바스크립트 배열에 대해서 설명해 주세요..md",
+    "Area/매일메일/인터프리터 언어인 자바스크립트에서 호이스팅이 가능한 이유.md",
+    "Area/매일메일/인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해 주세요..md",
+    "Area/매일메일/이벤트 전파(event propagation)에 대해서 설명해 주세요..md",
+    "Area/매일메일/이벤트 루프.md",
+    "Area/매일메일/이미지 크기가 클 경우 렌더링 속도가 느려질 텐데, 이를 개선하기 위한 방법들.md",
+    "Area/매일메일/웹 접근성의 개념과 개선 방법에 대해 설명해 주세요..md",
+    "Area/매일메일/웹 애플리케이션의 성능을 최적화할 수 있는 방법들.md",
+    "Area/매일메일/실행 컨텍스트.md",
+    "Area/매일메일/브라우저 렌더링 파이프라인에 대해서 설명해 주세요..md",
+    "Area/매일메일/시맨틱 마크업이란 무엇이며, 왜 중요한가요?.md",
+    "Area/매일메일/리액트의 Strict Mode에 대해서 설명해 주세요..md",
+    "Area/매일메일/리액트의 render phase와 commit phase에 대해서 설명해 주세요..md",
     "AttachedFiles/스크린샷 2025-01-18 오후 5.11.52.png",
     "AttachedFiles/스크린샷 2025-01-18 오후 5.11.16.png",
     "AttachedFiles/스크린샷 2025-01-18 오후 5.04.22.png",
     "AttachedFiles/스크린샷 2025-01-18 오후 4.51.42.png",
     "AttachedFiles/스크린샷 2025-01-18 오후 4.47.13.png",
-    "Resource/공부하며 새로 배운 내용 ✍️.md",
-    "Resource/10분 테코톡/Process vs Thread.md",
-    "Area/매일메일/CSS Flexbox와 Grid의 차이점에 대해서 설명해주세요..md",
-    "Area/매일메일/undefined와 null의 차이점에 대해서 설명해주세요..md",
-    "Area/코테/다시풀기.md",
-    "Area/매일메일/웹 접근성의 개념과 개선 방법에 대해 설명해주세요..md",
-    "Resource/10분 테코톡/검색 엔진 최적화.md",
-    "Area/독서/오늘, 또 일을 미루고 말았다.md",
-    "Area/매일메일/시맨틱 마크업이란 무엇이며, 왜 중요한가요?.md",
-    "Area/독서/함께 자라기.md",
-    "Area/매일메일/타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요..md",
-    "Resource/자바스크립트/자바스크립트 엔진과 런타임.md",
-    "Area/매일메일/자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?.md",
-    "무제 파일.md",
-    "Resource/아티클/자바스크립트는 왜 프로토타입을 선택했을까.md",
     "AttachedFiles/스크린샷 2025-01-07 오후 5.10.03.png",
     "AttachedFiles/스크린샷 2025-01-07 오후 5.08.56.png",
     "AttachedFiles/스크린샷 2025-01-07 오후 5.05.41.png",
     "AttachedFiles/스크린샷 2025-01-07 오후 5.04.16.png",
     "AttachedFiles/스크린샷 2025-01-07 오후 5.00.14.png",
-    "Resource/10분 테코톡/린 스타트업.md",
-    "Area/매일메일/낙관적 업데이트에 관하여 설명해주세요..md",
     "Resource/아티클",
-    "Area/매일메일/이미지 크기가 클 경우 렌더링 속도가 느려질 텐데, 이를 개선하기 위한 방법들.md",
-    "Area/매일메일/이미지 크기가 클 경우 렌더링 속도가 느려질 텐데, 이를 개선하기 위한 방법들을 설명해주세요..md",
-    "Area/독서/자기관리론.md",
     "Resource/10분 테코톡",
-    "AttachedFiles/스크린샷 2025-01-06 오후 3.15.46.png",
-    "Area/매일메일/프론트엔드 E2E 테스트에 대해서 설명해주세요..md",
-    "Resource/프론트엔드/kotest가 있다면 TDD 묻고 BDD로 가!.md",
-    "Area/매일메일/인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요..md",
-    "Area/매일메일/리액트의 render phase와 commit phase에 대해서 설명해주세요..md",
-    "Area/매일메일/브라우저 렌더링 파이프라인에 대해서 설명해주세요..md",
     "Resource/프론트엔드",
     "Area/매일메일",
     "Resource/네트워크",
